@@ -1,1 +1,1 @@
-# study-cryptography
+# Study Cryptography
