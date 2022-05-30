@@ -3,8 +3,9 @@
 # Table of Content
 - [:open_book: Books](#books)
 - [:computer: Online Courses](#online-courses)
-- [Interesting Reads](#interesting-reads)
+- [Blogs](#blogs)
 - [Online Discussions](#online-discussions)
+- [Other Lists](#other-lists)
 
 ## Books
 [Serious Cryptography](https://nostarch.com/seriouscrypto)
@@ -19,6 +20,8 @@
 
 [Fundamentals of Cryptography: Introducing Mathematical and Algorithmic Foundations](https://www.amazon.com/Fundamentals-Cryptography-Introducing-Mathematical-Undergraduate/dp/3030734919)
 
+[Introduction to Modern Cryptography](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security-dp-0815354363/dp/0815354363)
+
 ## Online Courses
 [CryptoHack](https://cryptohack.org/)
 
@@ -26,10 +29,17 @@
 
 [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
-## Interesting Reads
+## Blogs
 [Applied Practical Cryptography](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
+
+[A Few Thoughts on Cryptographic Engineering (Matthew Green)](https://blog.cryptographyengineering.com/)
 
 ## Online Discussions
 [Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
 
 [A Graduate Course in Applied Cryptography](https://news.ycombinator.com/item?id=28918554)
+
+[Reddit /crypto](https://www.reddit.com/r/crypto/)
+
+## Other Lists
+[Useful Cryptography resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/)
