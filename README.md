@@ -1,1 +1,29 @@
-# Study Cryptography
+# Study Cryptography  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Table of Content
+- [:open_book: Books](#books)
+- [:computer: Online Courses](#online-courses)
+- [Interesting Reads](#interesting-reads)
+- [Online Discussions](#online-discussions)
+
+## :open_book: Books
+[Serious Cryptography](https://nostarch.com/seriouscrypto)
+
+[Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
+
+[Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
+
+[Introduction to Mathematical Cryptography](https://www.amazon.com/Introduction-Mathematical-Cryptography-Undergraduate-Mathematics-dp-1493939386/dp/1493939386)
+
+[Understanding Cryptography: A Textbook for Students and Practitioners](https://www.amazon.com/Introduction-Mathematical-Cryptography-Undergraduate-Mathematics/dp/1441926747)
+
+[Fundamentals of Cryptography: Introducing Mathematical and Algorithmic Foundations](https://www.amazon.com/Fundamentals-Cryptography-Introducing-Mathematical-Undergraduate/dp/3030734919)
+
+## :computer: Online Courses
+[CryptoHack](https://cryptohack.org/)
+
+## Interesting Reads
+[Applied Practical Cryptography](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
+
+## Online Discussions
+[Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
