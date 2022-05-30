@@ -45,3 +45,5 @@
 [Useful Cryptography resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/)
 
 [Reddit - Crypto Wiki](https://www.reddit.com/r/crypto/wiki/index)
+
+[Awesome Cryptography (Nikita Sobolev)](https://github.com/sobolevn/awesome-cryptography)
