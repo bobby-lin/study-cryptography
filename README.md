@@ -6,7 +6,7 @@
 - [Interesting Reads](#interesting-reads)
 - [Online Discussions](#online-discussions)
 
-## :open_book: Books
+## Books
 [Serious Cryptography](https://nostarch.com/seriouscrypto)
 
 [Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
@@ -19,11 +19,17 @@
 
 [Fundamentals of Cryptography: Introducing Mathematical and Algorithmic Foundations](https://www.amazon.com/Fundamentals-Cryptography-Introducing-Mathematical-Undergraduate/dp/3030734919)
 
-## :computer: Online Courses
+## Online Courses
 [CryptoHack](https://cryptohack.org/)
+
+[A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)
+
+[Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
 ## Interesting Reads
 [Applied Practical Cryptography](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
 
 ## Online Discussions
 [Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
+
+[A Graduate Course in Applied Cryptography](https://news.ycombinator.com/item?id=28918554)
