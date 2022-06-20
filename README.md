@@ -4,6 +4,7 @@
 - [:open_book: Books](#books)
 - [:computer: Online Courses](#online-courses)
 - [Blogs](#blogs)
+- [Blog Posts](#blog-posts)
 - [Online Discussions](#online-discussions)
 - [Other Lists](#other-lists)
 
@@ -33,6 +34,9 @@
 [Applied Practical Cryptography](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
 
 [A Few Thoughts on Cryptographic Engineering (Matthew Green)](https://blog.cryptographyengineering.com/)
+
+## Blog Posts
+[Applied Cryptography Engineering]( https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
 
 ## Online Discussions
 [Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
