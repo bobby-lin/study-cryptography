@@ -7,6 +7,7 @@ plaintext = b'01010101010101010101010101010101'
 ciphertext = b'85efcebdfb18f6c2401d0478802e9f61'
 decrypted plaintext = b'01010101010101010101010101010101'
 """
+# Docs: https://cryptography.io/en/latest/hazmat/primitives/symmetric-encryption/
 
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
