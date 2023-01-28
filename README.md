@@ -23,6 +23,9 @@
 
 [Introduction to Modern Cryptography](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security-dp-0815354363/dp/0815354363)
 
+### More Books
+[A Computational Introduction to Number Theory and Algebra by Victor Shoup](https://shoup.net/ntb/)
+
 ## Online Courses
 [CryptoHack](https://cryptohack.org/)
 
