@@ -11,6 +11,7 @@ def matrix2bytes(matrix):
     return bytearray(arr)
 
 
+"""
 matrix = [
     [99, 114, 121, 112],
     [116, 111, 123, 105],
@@ -19,3 +20,4 @@ matrix = [
 ]
 
 print(matrix2bytes(matrix))
+"""
