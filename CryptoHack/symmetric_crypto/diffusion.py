@@ -8,6 +8,7 @@ def shift_rows(s):
 
 
 def inv_shift_rows(s):
+
     """
     Reverse of shift rows:
     Example:
@@ -17,6 +18,7 @@ def inv_shift_rows(s):
     s[0][1], s[1][1], s[2][1], s[3][1] = s[3][1], s[0][1], s[1][1], s[2][1]
     s[0][2], s[1][2], s[2][2], s[3][2] = s[2][2], s[3][2], s[0][2], s[1][2]
     s[0][3], s[1][3], s[2][3], s[3][3] = s[1][3], s[2][3], s[3][3], s[0][3]
+    return s
 
 
 # learned from http://cs.ucsb.edu/~koc/cs178/projects/JT/aes.c
@@ -37,6 +39,8 @@ def mix_columns(s):
     for i in range(4):
         mix_single_column(s[i])
 
+    return s
+
 
 def inv_mix_columns(s):
     # see Sec 4.1.3 in The Design of Rijndael
@@ -48,9 +52,10 @@ def inv_mix_columns(s):
         s[i][2] ^= u
         s[i][3] ^= v
 
-    mix_columns(s)
+    return mix_columns(s)
 
 
+"""
 state = [
     [108, 106, 71, 86],
     [96, 62, 38, 72],
@@ -58,6 +63,8 @@ state = [
     [94, 79, 8, 54],
 ]
 
-inv_mix_columns(state)
-inv_shift_rows(state)
-print(matrix.matrix2bytes(state))
+"""
+
+# inv_mix_columns(state)
+# inv_shift_rows(state)
+# print(matrix.matrix2bytes(state))

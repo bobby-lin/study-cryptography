@@ -1,5 +1,6 @@
 import matrix
 
+"""
 state = [
     [206, 243, 61, 34],
     [171, 11, 93, 31],
@@ -14,6 +15,8 @@ round_key = [
     [253, 48, 187, 78],
 ]
 
+"""
+
 
 def add_round_key(s, k):
     final_state = []
@@ -24,9 +27,8 @@ def add_round_key(s, k):
             row_state.append(s[i][y] ^ k[i][y])
 
         final_state.append(row_state)
-
     return final_state
 
 
-print(add_round_key(state, round_key))
-print(matrix.matrix2bytes(add_round_key(state, round_key)))
+#print(add_round_key(state, round_key))
+#print(matrix.matrix2bytes(add_round_key(state, round_key)))

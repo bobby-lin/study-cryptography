@@ -36,23 +36,27 @@ inv_s_box = (
     0x17, 0x2B, 0x04, 0x7E, 0xBA, 0x77, 0xD6, 0x26, 0xE1, 0x69, 0x14, 0x63, 0x55, 0x21, 0x0C, 0x7D,
 )
 
+"""
 state = [
     [251, 64, 182, 81],
     [146, 168, 33, 80],
     [199, 159, 195, 24],
     [64, 80, 182, 255],
 ]
+"""
 
 
 def sub_bytes(s, sbox=s_box):
     arr = []
     for i in range(len(s)):
+        row = []
         for y in range(4):
             # We retrieve value from the sbox based on the state's value
             # This makes the substitution more non-linear
-            arr.append(sbox[s[i][y]])
+            row.append(sbox[s[i][y]])
+        arr.append(row)
 
-    return bytearray(arr)
+    return arr
 
 
-print(sub_bytes(state, sbox=inv_s_box))
+#print(sub_bytes(state, sbox=inv_s_box))
