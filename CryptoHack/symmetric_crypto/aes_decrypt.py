@@ -68,6 +68,7 @@ def decrypt(key, ciphertext):
     # Initial add round key step
     state = add_round_key(state, convert_key_to_matrix(round_keys[10]))
 
+    # Rounds
     for i in range(N_ROUNDS - 1, 0, -1):
         state = diffusion.inv_shift_rows(state)
         state = sub_bytes(state, inv_s_box)
