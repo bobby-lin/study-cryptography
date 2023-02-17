@@ -35,6 +35,9 @@
 
 [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
+## SDLC guide
+[Microsoft SDL Cryptography](https://learn.microsoft.com/en-us/security/sdl/cryptographic-recommendations)
+
 ## Blogs
 [Applied Practical Cryptography](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
 
