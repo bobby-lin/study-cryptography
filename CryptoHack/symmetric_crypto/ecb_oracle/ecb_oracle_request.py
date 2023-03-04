@@ -45,6 +45,8 @@ while True:
     if i == 0 or b"}" in current_flag_guess:
         break
     for ch in string.printable:
+        if b"}" in current_flag_guess:
+            break
         flag_guess = current_flag_guess + ch.encode()
         c = guess(i, flag_guess)
         for ct in cipher_list:
