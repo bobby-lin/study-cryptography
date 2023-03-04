@@ -35,9 +35,6 @@ for i in range(1, 33):
     print(f"Length of PT = {len(plaintext)} || C = {split_msg_to_blocks(bytes.fromhex(c))}")
 
 
-# Quick check
-# print(guess(1, current_flag_guess))
-
 current_flag_guess = b''
 i = 31  # Assuming 2 blocks (32 bytes) and flag is less than 32 bytes
 
