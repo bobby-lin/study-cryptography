@@ -1,3 +1,6 @@
+"""
+Exercise: https://aes.cryptohack.org/flipping_cookie/
+"""
 from Crypto.Cipher import AES
 import os
 from Crypto.Util.Padding import pad, unpad
