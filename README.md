@@ -46,6 +46,10 @@
 ## Blog Posts
 [Applied Cryptography Engineering]( https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/)
 
+[So you want to be a Cryptographer](https://gotchas.salusa.dev/GettingStarted.html)
+
+[How to read crypto research paper](https://gotchas.salusa.dev/how_to_read.html)
+
 ## Online Discussions
 [Ask HN: Best book on modern cryptography?](https://news.ycombinator.com/item?id=31533041)
 
